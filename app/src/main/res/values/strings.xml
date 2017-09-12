@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MTG Life Tracker</string>
+    <string name="title_activity_life_tracker">LifeTracker</string>
+</resources>
