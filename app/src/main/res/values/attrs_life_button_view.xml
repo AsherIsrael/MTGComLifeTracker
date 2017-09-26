@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="LifeButtonView">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+        <attr name="modifier" format="integer"/>
+        <attr name="playerIdx" format="integer"/>
+    </declare-styleable>
+</resources>
